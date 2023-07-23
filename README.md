@@ -36,7 +36,7 @@ Video Presentation: To provide a better insight into the Tesla clone, a video pr
 <br>
 #Installation and Usage  :-
 
-Clone the repository:  `git clone https://github.com/your-username/tesla-clone.git`
+Clone the repository:  `git clone https://github.com/HarshSingh21/Tesla_Clone_.git`
 <br>
 Install dependencies:   `npm install`
 <br>
