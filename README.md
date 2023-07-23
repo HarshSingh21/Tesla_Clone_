@@ -1,8 +1,7 @@
 Tesla Clone with React.js, React Revel, and Material-UI
 <br>
 <br>
-<br>
-<br>
+
 
 This project is a clone of the Tesla website built using React.js, React Revel, and Material-UI. The purpose of this clone is to showcase the development skills and demonstrate the ability to recreate a modern and visually appealing website like Tesla.
 
