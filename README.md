@@ -34,7 +34,7 @@ Video Presentation: To provide a better insight into the Tesla clone, a video pr
 <br>
 
 <br>
-#Installation and Usage  :-
+# Installation and Usage  :-
 
 Clone the repository:  `git clone https://github.com/HarshSingh21/Tesla_Clone_.git`
 <br>
