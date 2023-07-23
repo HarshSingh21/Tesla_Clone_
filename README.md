@@ -9,7 +9,7 @@ This project is a clone of the Tesla website built using React.js, React Revel, 
 
 <br>
 
-#Features 
+##Features 
 
 React.js: The project is built using React.js, a popular JavaScript library for building user interfaces. React.js allows for the creation of reusable components, making the project more maintainable and scalable.
 
@@ -28,23 +28,28 @@ Booking Functionality: The website incorporates a booking feature that enables u
 Video Presentation: To provide a better insight into the Tesla clone, a video presentation is available, demonstrating the functionalities and features of the project.
 
  
-Live Demo  ->  
+##Live Demo  ->  
 
 
 
 
-#Screenshots
+##Screenshots
 
 ![Tesla-Clone (1)](https://github.com/HarshSingh21/Tesla_Clone_/assets/94156692/7636a8df-4e92-4052-9063-20291b87abc6)
 
 #Installation and Usage  :-
 
-Clone the repository:   git clone https://github.com/your-username/tesla-clone.git
+Clone the repository:  git clone https://github.com/your-username/tesla-clone.git
+<br>
 Install dependencies:   npm install
+<br>
 Run the development server: npm start
+<br>
 Open your web browser and visit http://localhost:3000 to see the Tesla clone in action.
 
 
+<br>
 Contributions are welcome! If you find any bugs or want to add new features, please feel free to open an issue or submit a pull request.
 
+<br>
 License : This project is licensed under the MIT License - see the LICENSE file for details.
