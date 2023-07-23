@@ -32,6 +32,8 @@ Video Presentation: To provide a better insight into the Tesla clone, a video pr
 
 ![Tesla-Clone (1)](https://github.com/HarshSingh21/Tesla_Clone_/assets/94156692/7636a8df-4e92-4052-9063-20291b87abc6)
 <br>
+
+<br>
 #Installation and Usage  :-
 
 Clone the repository:  `git clone https://github.com/your-username/tesla-clone.git`
@@ -48,7 +50,6 @@ Open your web browser and visit
 <br>
 Contributions are welcome! If you find any bugs or want to add new features, please feel free to open an issue or submit a pull request.
 
-<br>
 <br>
 
 License : This project is licensed under the MIT License - see the LICENSE file for details.
