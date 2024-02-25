@@ -47,7 +47,7 @@ function Footer() {
         <SocialIconsContainer>
           {/* LinkedIn Icon */}
           <a
-            href="www.linkedin.com/in/pavitra-kallanagoudar31"
+            href="https://www.linkedin.com/in/singhharsh14/"
             target="_blank"
             rel="noopener noreferrer"
           >
