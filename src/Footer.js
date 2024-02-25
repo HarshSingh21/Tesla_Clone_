@@ -63,7 +63,7 @@ function Footer() {
             "100%" />
           </a>
         </SocialIconsContainer>
-        <CopyrightText>© Pavitra K</CopyrightText>
+        <CopyrightText>©  Harsh Singh</CopyrightText>
       </div>
     </FooterContainer>
   );
