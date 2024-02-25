@@ -55,7 +55,7 @@ function Footer() {
           </a>
           {/* GitHub Icon */}
           <a
-            href="https://github.com/Pavitra31"
+            href="https://github.com/HarshSingh21"
             target="_blank"
             rel="noopener noreferrer"
           >
