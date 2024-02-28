@@ -1,5 +1,4 @@
 // Footer.js
-import { BorderAll } from '@material-ui/icons';
 import React from 'react';
 import styled from 'styled-components';
 
@@ -47,7 +46,7 @@ function Footer() {
         <SocialIconsContainer>
           {/* LinkedIn Icon */}
           <a
-            href="https://www.linkedin.com/in/singhharsh14/"
+            href="https://www.linkedin.com/in/pavitra-kallanagoudar31/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +54,7 @@ function Footer() {
           </a>
           {/* GitHub Icon */}
           <a
-            href="https://github.com/HarshSingh21"
+            href="https://github.com/Pavitra31/Tesla_Clone"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -63,7 +62,7 @@ function Footer() {
             "100%" />
           </a>
         </SocialIconsContainer>
-        <CopyrightText>© Harsh Singh</CopyrightText>
+        <CopyrightText>© Pavitra</CopyrightText>
       </div>
     </FooterContainer>
   );
